@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977894209740",
+    "project_id": "chat-app-tutorial-f8f24",
+    "storage_bucket": "chat-app-tutorial-f8f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977894209740:android:0cc49d31ff67d351c02a69",
+        "android_client_info": {
+          "package_name": "com.techiesnbeyond.chat_app_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977894209740-pbu2e0mcoavnodf7u340fi6d68c9qae8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXOwFpQz9AYU20oVuydIJq36px6HnI2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977894209740-pbu2e0mcoavnodf7u340fi6d68c9qae8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
